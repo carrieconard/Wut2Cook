@@ -1,17 +1,44 @@
-<!DOCTYPE html>
 <html>
+
 <head>
-	<meta charset ="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width = device-width, initial-scale = 1">
-	<title>Home</title>
-	<link rel="icon" href="images/logo_copy.png" type = "image/png">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <title>Sign in</title>
+</head>
 
-	<! Style Sheets >
-	<link rel="stylesheet" href="static/styles.css">
+<body>
+    <div class="myDiv">
+        <h2 class="logging">Login to your app</h2>
 
-	<! Fonts >
+        <div class="dot"></div>
+    </div>
+    <br />
+    <br />
 
-	</head>
+    <div class="main">
+
+        <form class="form1">
+            <div class="container">
+
+                <input type="text" name="first" maxlength="50" placeholder="Username or Email"><br /><br />
+                <br />
+
+                <input type="password" name="last" placeholder="Password"><br />
+
+            </div>
+        </form>
+        <div class="submit">
+            <button class="mybutton" type="button">Login</button>
+        </div>
+        <hr />
+        <button class="facebook" style="display:inline-block"><img src="fb.png"  style="float:left; height:30px; width:30px;">Facebook</button>
+        <button class="twitter" style="display:inline-block"><img src="twitter.png"  style="float:left; height:30px; width:30px;">Twitter</button>
+        <button class="google" style="display:inline-block"><img src="google.png"  style="float:left; height:30px; width:30px;">Google</button>
+    </div>
+    
+  
+</body>
 
 </html>
