@@ -1,0 +1,30 @@
+html {
+    background-color: whitesmoke;
+}
+body{
+    margin: 0px;
+    background-color: whitesmoke;
+}
+
+label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    font-size: 50px;
+    color: #982121;
+}
+
+form {
+    align-items:center;
+    justify-content: center;
+    position: relative;
+    display:flex;
+}
+
+form input[type="submit"]{
+    background:#982121;
+    color: white;
+}
+
+
