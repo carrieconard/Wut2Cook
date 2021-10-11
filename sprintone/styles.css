@@ -1,0 +1,130 @@
+
+
+.html{
+    overflow: hidden;
+}
+body {
+    background-color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.main {
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 7em auto;
+    border-radius: 1.5em;
+    
+}
+
+
+
+
+.container {
+    width: 300px;
+    clear: both;
+    left:40px;
+    top: 40px;
+}
+
+    
+
+
+.span {
+    content: "\22EE";
+    position: center;
+}
+
+.facebook {
+    background-color: #3B5998;
+    position: center;
+    color: white;
+    width: 300px;
+    height: 50px;
+}
+
+.twitter {
+    background-color: #1DA1F2;
+    position: center;
+    color: white;
+    width: 300px;
+    height: 50px;
+}
+.google {
+    background-color: #DB3236;
+    position: center;
+    color: white;
+    width: 300px;
+    height: 50px;
+}
+.dot {
+    width: 10px;
+    height: 10px;
+    right: 10px; 
+    color: white;
+  
+}
+.pass {
+    width: 76%;
+    color: white;
+    nt-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: white;
+   
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+    
+
+.submit {
+    cursor: pointer;
+   
+    color: white;
+
+    border: 0;
+    padding-left: 0px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+
+    font-size: 13px;
+    
+   
+}
+.myButton {
+    background-color: #800020;
+
+    color: white;
+    width: 300px; 
+    height:50px;
+}
+
+a {
+    text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+    color: #E1BEE7;
+    text-decoration: none
+}
+.myDiv {
+    border: 15px solid #800020;
+    background-color: #800020;
+    text-align: left;
+    width: stretch;
+    height: 35px;
+    color: white;
+}
+
+.logging {
+    color: white;
+}
