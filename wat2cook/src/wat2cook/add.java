@@ -71,15 +71,15 @@ public class add extends javax.swing.JFrame {
         setAlwaysOnTop(true);
         setBackground(new java.awt.Color(0, 204, 204));
 
-        jPanel3.setBackground(new java.awt.Color(153, 255, 255));
+        jPanel3.setBackground(new java.awt.Color(152, 33, 33));
 
-        jCheckBox4.setBackground(new java.awt.Color(153, 255, 255));
+        jCheckBox4.setBackground(new java.awt.Color(152, 33, 33));
         jCheckBox4.setText("Potato");
 
         jLabel2.setBackground(new java.awt.Color(153, 255, 255));
         jLabel2.setText("  Meat:");
 
-        jCheckBox5.setBackground(new java.awt.Color(153, 255, 255));
+        jCheckBox5.setBackground(new java.awt.Color(152, 33, 33));
         jCheckBox5.setText("Chicken");
         jCheckBox5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -87,13 +87,13 @@ public class add extends javax.swing.JFrame {
             }
         });
 
-        jCheckBox6.setBackground(new java.awt.Color(153, 255, 255));
+        jCheckBox6.setBackground(new java.awt.Color(152, 33, 33));
         jCheckBox6.setText("Beef");
 
-        jCheckBox7.setBackground(new java.awt.Color(153, 255, 255));
+        jCheckBox7.setBackground(new java.awt.Color(152, 33, 33));
         jCheckBox7.setText("Pork");
 
-        jButton1.setBackground(new java.awt.Color(153, 255, 255));
+        jButton1.setBackground(new java.awt.Color(255, 255, 255));
         jButton1.setText("Add Ingredients");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -101,10 +101,10 @@ public class add extends javax.swing.JFrame {
             }
         });
 
-        jCheckBox8.setBackground(new java.awt.Color(153, 255, 255));
+        jCheckBox8.setBackground(new java.awt.Color(152, 33, 33));
         jCheckBox8.setText("Turkey");
 
-        jButton2.setBackground(new java.awt.Color(153, 255, 255));
+        jButton2.setBackground(new java.awt.Color(255, 255, 255));
         jButton2.setText("Submit");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -112,16 +112,16 @@ public class add extends javax.swing.JFrame {
             }
         });
 
-        jCheckBox1.setBackground(new java.awt.Color(153, 255, 255));
+        jCheckBox1.setBackground(new java.awt.Color(152, 33, 33));
         jCheckBox1.setText("Onion");
 
         jLabel1.setText("  Vegetables:");
         jLabel1.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 
-        jCheckBox2.setBackground(new java.awt.Color(153, 255, 255));
+        jCheckBox2.setBackground(new java.awt.Color(152, 33, 33));
         jCheckBox2.setText("Tomato");
 
-        jCheckBox3.setBackground(new java.awt.Color(153, 255, 255));
+        jCheckBox3.setBackground(new java.awt.Color(152, 33, 33));
         jCheckBox3.setText("Carrot");
         jCheckBox3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

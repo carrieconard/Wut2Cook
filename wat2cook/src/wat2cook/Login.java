@@ -41,7 +41,7 @@ public class Login extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(0, 255, 255));
 
-        jPanel1.setBackground(new java.awt.Color(153, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(152, 33, 33));
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel3.setText("   Wat2Cook");
@@ -63,7 +63,7 @@ public class Login extends javax.swing.JFrame {
 
         jLabel2.setText("PASSWORD");
 
-        jButton1.setBackground(new java.awt.Color(153, 255, 255));
+        jButton1.setBackground(new java.awt.Color(255, 255, 255));
         jButton1.setText("LOGIN");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -71,7 +71,7 @@ public class Login extends javax.swing.JFrame {
             }
         });
 
-        register.setBackground(new java.awt.Color(153, 255, 255));
+        register.setBackground(new java.awt.Color(255, 255, 255));
         register.setText("REGISTER");
         register.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
